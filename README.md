@@ -40,7 +40,8 @@ Once the resource is created:
 1. Clone the repository
 <pre> ```bash 
    git clone https://github.com/Your-Profile/Your-Repository-Name.git
-   cd Your-Repository-Name``` </pre>
+   cd Your-Repository-Name
+``` </pre>
 
 2. Install dependencies
 <pre> ```bash
