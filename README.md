@@ -1,4 +1,4 @@
-# Text_Generation_Application_Using_Azure_AI
+# Text Generation Application Using Azure AI
 
 A sample application showcasing how to generate text using Azure OpenAI Service. It includes two code files, each demonstrating a different integration method.
 
@@ -38,25 +38,25 @@ Once the resource is created:
 
 ## 🛠 Installation & Setup
 1. Clone the repository
-<pre>```bash 
+<pre> ```bash 
    git clone https://github.com/Your-Profile/Your-Repository-Name.git
-   cd Your-Repository-Name```</pre>
+   cd Your-Repository-Name``` </pre>
 
 2. Install dependencies
-<pre>```bash
+<pre> ```bash
     python3 -m venv venv
     source venv/bin/activate
-    pip install -r requirements.txt```</pre>
+    pip install -r requirements.txt``` </pre>
 
 
 3. Set Up Environment Variables (Refer .env_example)
 - Create a .env file 
-<pre>```bash
+<pre> ```bash
     OPENAI_API_KEY='Your-api-key'
     OPENAI_API_TYPE='azure'
     OPENAI_API_VERSION='2023-05-15'
     API_BASE='Your-base-url'
-    AZURE_OPENAI_DEPLOYMENT='o3-mini'```</pre>
+    AZURE_OPENAI_DEPLOYMENT='o3-mini'``` </pre>
 
 
 
